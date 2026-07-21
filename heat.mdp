@@ -1,0 +1,55 @@
+; 100 ps MD to heat the system
+; Positional restrains for backbone and side-chains
+; the temperature rises from 20 to 310 K 
+; using a reverse annealing during the first 50 ps
+; the volume is kept constant
+
+define                  = -DPOSRES
+integrator              = md
+dt                      = 0.001
+nsteps                  = 100000
+;
+nstxout                 = 0
+nstvout                 = 0
+nstfout                 = 0
+nstxout-compressed      = 1000
+nstcalcenergy           = 100
+nstenergy               = 1000
+nstlog                  = 1000
+;
+cutoff-scheme           = Verlet
+nstlist                 = 20
+;rlist                   = 1.0
+vdwtype                 = Cut-off
+vdw-modifier            = Potential-shift-Verlet
+rvdw                    = 1.0
+coulombtype             = PME
+rcoulomb                = 1.0
+DispCorr                = EnerPres
+;
+tcoupl                  = v-rescale
+tc_grps                 = Protein Non-Protein
+tau_t                   = 0.1     0.1
+ref_t                   = 310     310
+;
+constraints             = h-bonds
+constraint_algorithm    = LINCS
+;
+nstcomm                 = 100
+comm_mode               = linear
+comm_grps               = System
+;
+gen-vel                 = yes
+gen-temp                = 20
+gen-seed                = -1
+
+; SIMULATED ANNEALING
+; Type of annealing for each temperature group (no/single/periodic)
+annealing                =  single single
+; Number of time points to use for specifying annealing in each group
+annealing_npoints        = 2 2
+; List of times at the annealing points for each group
+annealing_time           = 0 50 0 50
+; Temp. at each annealing point, for each group.
+annealing_temp           = 20 310 20 310
+

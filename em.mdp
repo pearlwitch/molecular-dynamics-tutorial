@@ -1,0 +1,32 @@
+define                  = 
+integrator              = steep
+emtol                   = 100.0
+emstep                  = 0.01
+nsteps                  = 5000
+nstlist                 = 10
+cutoff-scheme           = Verlet
+rlist                   = 1.0
+vdwtype                 = Cut-off
+vdw-modifier            = Potential-shift-Verlet
+rvdw                    = 1.0
+coulombtype             = PME
+rcoulomb                = 1.0
+DispCorr                = EnerPres
+;
+constraints             = h-bonds
+constraint_algorithm    = LINCS
+;
+; OUTPUT CONTROL OPTIONS
+; Output frequency for coords (x), velocities (v) and forces (f)
+nstxout                  = 100
+nstvout                  = 0
+nstfout                  = 0
+; Output frequency for energies to log file and energy file
+nstlog                   = 100
+nstcalcenergy            = 10
+nstenergy                = 100
+; Output frequency and precision for .xtc file
+nstxout-compressed       = 0
+compressed-x-precision   = 1000
+
+
