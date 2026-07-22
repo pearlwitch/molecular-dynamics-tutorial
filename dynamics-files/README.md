@@ -1,1 +1,1 @@
-Prep input files to run MD with Gromacs.
+Prep input files to run molecular dynamics with Gromacs.
