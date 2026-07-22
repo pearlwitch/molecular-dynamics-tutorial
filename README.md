@@ -1,4 +1,4 @@
 # molecular-dynamics-tutorial
-Tutorial for Classical Molecular Dynamics course at National Laboratory for Scientific Computing (LNCC)
+Tutorial for Classical Molecular Dynamics course at National Laboratory for Scientific Computing (LNCC).
 
 https://procc-mau.gitbook.io/tutorial-dm-basica
