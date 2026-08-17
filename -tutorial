@@ -1,0 +1,167 @@
+[33mcommit 1a9e211cdd78f5f26d52310af30757c6b6b7eedb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: larissa <laribastos2212@gmail.com>
+Date:   Wed Jul 22 15:13:40 2026 -0300
+
+    giving instructions
+
+[33mcommit 8ab2492f415f637fc2047ef00c0701d24b7983f7[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 15:03:53 2026 -0300
+
+    Change header level for unzip instructions in README
+
+[33mcommit f9f3bf1f579b280dd56929da78780f0c84a92337[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 15:03:40 2026 -0300
+
+    Add unzip instructions to README.md
+    
+    Added instructions for unzipping the dmbasica.tgz file.
+
+[33mcommit f31d52bba8c26850df0b5a7f339e7c49a4f13fd2[m
+Author: larissa <laribastos2212@gmail.com>
+Date:   Wed Jul 22 15:00:03 2026 -0300
+
+    enviando o arquivinho do bmo
+
+[33mcommit b4c6663c75eab41cad5f0f61eb9d602bd42e993e[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 14:26:06 2026 -0300
+
+    Delete dmbasica/gg
+
+[33mcommit 87d60e979d5f7492a5de0c41d80b8ebf0dcc1be9[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 14:24:34 2026 -0300
+
+    Rename README.md to README.md
+
+[33mcommit b3ab5a4ce5a33c2d5096f2aa35c3b0851725155b[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 14:23:13 2026 -0300
+
+    Create gg
+
+[33mcommit 8350939197ddf9cf5f0ad653afb45e6642202e3d[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 09:28:44 2026 -0300
+
+    Update README.md
+
+[33mcommit e13060d2a8669360d3185c646efc4e585adab57a[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 09:28:26 2026 -0300
+
+    Modify README header with image and tutorial link
+    
+    Updated the README header to include an image.
+
+[33mcommit 7765a7d250d85dc44a283dc24c16c46a27ee1ba0[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 09:28:11 2026 -0300
+
+    Update README.md
+
+[33mcommit 90cfd79bbc4bbe9a66fca892ba3c46350f04fc7b[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 09:27:13 2026 -0300
+
+    Update README.md
+
+[33mcommit cf9b7cc654b490fe3d5e5127a4c5e96cf0b60c72[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Wed Jul 22 09:26:45 2026 -0300
+
+    Add image to README for molecular dynamics tutorial
+    
+    Added an image to the README for better visual context.
+
+[33mcommit e97a0dd3d25462d5aecc089479a4db9a2719d13a[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 23:26:37 2026 -0300
+
+    Add README.md with tutorial instructions
+
+[33mcommit c8594fd58448236a0a0c421aa11bf287bc70dc1f[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 21:06:04 2026 -0300
+
+    Fix punctuation in README description
+
+[33mcommit 8aae605e091ace77b3d5fe00bb1b1aebf54f8a61[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 21:01:00 2026 -0300
+
+    Delete tutorial-files
+
+[33mcommit 3c3d3f309fe09e689160a8dd9818039bf2de61b2[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 21:00:40 2026 -0300
+
+    Create tutorial-files
+
+[33mcommit 4ace660b156d6bc3ca21691a038f7aa08abadd2e[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:59:54 2026 -0300
+
+    Update README.md
+
+[33mcommit 83813d652d7bd5c9ac7b17c9fde1281fab7beaf8[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:58:57 2026 -0300
+
+    Rename aempr.mdp to empr.mdp
+
+[33mcommit 1a6b1139e4e886dc4962d57bb253d910eb564903[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:58:31 2026 -0300
+
+    Rename prod.mdp to dynamics-files/prod.mdp
+
+[33mcommit 596f750539988ebd82132c32010e5d61d3e09d6b[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:58:01 2026 -0300
+
+    Rename ions.mdp to dynamics-files/ions.mdp
+
+[33mcommit 6e252620dc3e635963beff419eca3d0003f687b2[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:57:47 2026 -0300
+
+    Rename heat.mdp to dynamics-files/heat.mdp
+
+[33mcommit 0c2d6f3ec5757c5dcf9f1da21fdbd94cf75f577a[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:57:28 2026 -0300
+
+    Rename equi_npt.mdp to dynamics-files/equi_npt.mdp
+
+[33mcommit 796b26a51ce28187360d0fc03315f05369040768[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:57:06 2026 -0300
+
+    Rename empr.mdp to dynamics-files/aempr.mdp
+
+[33mcommit c25d2816819f39bbdc55256c7240529cce9faa7d[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:56:29 2026 -0300
+
+    Rename em.mdp to dynamics-files/em.mdp
+
+[33mcommit faf10a5274325b5ce2d2f87138ccdb79264c7f2a[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:55:35 2026 -0300
+
+    Add files via upload
+
+[33mcommit 8247e815206530021d457aff219c7518d5d771a3[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:52:52 2026 -0300
+
+    Update README.md
+
+[33mcommit 3408cb50c80a5ee9efb9f6897d5bc87ef4103500[m
+Author: Larissa Bastos <152413974+pearlwitch@users.noreply.github.com>
+Date:   Tue Jul 21 20:52:09 2026 -0300
+
+    Initial commit
